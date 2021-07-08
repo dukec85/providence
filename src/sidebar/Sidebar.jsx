@@ -21,6 +21,7 @@ export default function Sidebar() {
                       <li className="sidebarListItem">WORSHIP</li>
                       <li className="sidebarListItem">CULTURE</li>
                       <li className="sidebarListItem">EVENTS</li>
+                      <li className="sidebarListItem">MUSIC</li>
                     </ul>
                 </div>
             </div>
