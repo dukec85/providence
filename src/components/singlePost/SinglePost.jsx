@@ -20,7 +20,7 @@ export default function SinglePost() {
                     <span className="singlePostAuthor">Author: <b>Chris</b></span>
                     <span className="singlePostDate"> 1 hour ago</span>
                 </div>
-                <p>
+                <p className="singlePostDesc">
                     Lorem ipsum blah blah blah. Lorem ipsum blah blah blah. Lorem ipsum blah blah blah.
                     Lorem ipsum blah blah blah. Lorem ipsum blah blah blah. Lorem ipsum blah blah blah.
                     Lorem ipsum blah blah blah. Lorem ipsum blah blah blah. Lorem ipsum blah blah blah.
